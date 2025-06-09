@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 50,
+    "height" : 38
+  }, {
+    "width" : 100,
+    "height" : 75
+  }, {
+    "width" : 200,
+    "height" : 150
+  }, {
+    "width" : 400,
+    "height" : 300
+  }, {
+    "width" : 800,
+    "height" : 600
+  }, {
+    "width" : 1600,
+    "height" : 1200
+  } ],
+  "profile" : "level0",
+  "width" : 1600,
+  "id" : "https://reyhaneh1998.github.io/TMDRA_111/images/6-simple-living-room-layout-ideas-maximum-comfort-functionality",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1200
+}
